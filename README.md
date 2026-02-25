@@ -16,12 +16,12 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais e evoluir. A
 -💠 C++
 Estou focado em aprender lógica, estruturas de dados, boas práticas e construção de pequenos projetos para reforçar meus estudos.
 
+
 📘 Sobre mim
 
 -👨‍🎓 Estudante de ADS
 
 -🔍 Motivado a aprender novas tecnologias
-
 
 -🌱 Evoluindo passo a passo para me tornar um bom desenvolvedor
 
