@@ -18,11 +18,15 @@ Estou focado em aprender lógica, estruturas de dados, boas práticas e constru�
 
 -🔍 Motivado a aprender novas tecnologias
 
+
 -🌱 Evoluindo passo a passo para me tornar um bom desenvolvedor
+
 -🤝 Aberto a oportunidades para aprender, colaborar e crescer
+
 -💼 Procurando minha primeira oportunidade na área de TI
 
 🔗 Onde me encontrar
+
 📎 LinkedIn:
 www.linkedin.com/in/luiz-ribeiro-2677a333b
 
@@ -32,7 +36,11 @@ www.linkedin.com/in/luiz-ribeiro-2677a333b
 
 
 🌟 Objetivos
+
 -Conseguir meu primeiro emprego na área de desenvolvimento
+
 -Criar projetos para reforçar meus estudos
+
 -Desenvolver uma base sólida em Python, JavaScript e C++
+
 -Me aprofundar em tecnologias de back-end e front-end futuramente
