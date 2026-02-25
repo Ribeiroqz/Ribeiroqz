@@ -8,12 +8,16 @@
 Sou apaixonado por tecnologia e estou sempre buscando aprender mais e evoluir. Aqui no GitHub você vai acompanhar minha evolução como estudante e futuro desenvolvedor!
 
 🚀 O que estou estudando atualmente
+
 -🐍 Python
+
 -🌐 JavaScript
+
 -💠 C++
 Estou focado em aprender lógica, estruturas de dados, boas práticas e construção de pequenos projetos para reforçar meus estudos.
 
 📘 Sobre mim
+
 -👨‍🎓 Estudante de ADS
 
 -🔍 Motivado a aprender novas tecnologias
