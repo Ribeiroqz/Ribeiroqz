@@ -14,7 +14,7 @@
 - 🚀 Motivado a aprender e evoluir sempre  
 - 💻 Construindo base sólida em programação  
 - 🤝 Aberto a colaboração e projetos  
-- 🎯 Objetivo: meu primeiro emprego como desenvolvedor  
+- 🎯 Objetivo: conseguir meu primeiro emprego como desenvolvedor  
 
 ---
 
@@ -38,24 +38,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ribeiroqz&show_icons=true&theme=tokyonight&hide_title=true" 
-    height="160"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiroqz&layout=compact&theme=tokyonight"
-    height="160"
-  />
-
-</div>
 
 ---
 
