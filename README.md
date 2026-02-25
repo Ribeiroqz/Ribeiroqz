@@ -15,7 +15,9 @@ Estou focado em aprender lógica, estruturas de dados, boas práticas e constru�
 
 📘 Sobre mim
 -👨‍🎓 Estudante de ADS
+
 -🔍 Motivado a aprender novas tecnologias
+
 -🌱 Evoluindo passo a passo para me tornar um bom desenvolvedor
 -🤝 Aberto a oportunidades para aprender, colaborar e crescer
 -💼 Procurando minha primeira oportunidade na área de TI
