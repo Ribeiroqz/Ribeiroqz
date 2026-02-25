@@ -1,39 +1,62 @@
-# Luiz Ribeiro
+<h1 align="center">Luiz Ribeiro</h1>
 
-### Estudante de Análise e Desenvolvimento de Sistemas  
-Atualmente iniciando minha jornada no mundo da programação e construindo minha base em desenvolvimento de software.  
-Buscando minha primeira oportunidade na área de TI.
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas<br>
+  Iniciando minha jornada como desenvolvedor<br>
+  Estudando Python • JavaScript • C++<br>
+  Buscando minha primeira oportunidade na área de TI
+</p>
+
+---
+
+## 🔥 Sobre mim
+- 🎓 Estudante de ADS  
+- 🚀 Motivado a aprender e evoluir sempre  
+- 💻 Construindo base sólida em programação  
+- 🤝 Aberto a colaboração e projetos  
+- 🎯 Objetivo: meu primeiro emprego como desenvolvedor  
 
 ---
 
 ## 📚 Estudando atualmente
-- Python  
-- JavaScript  
-- C++  
+
+<div align="center">
+
+| Linguagem | Nível |
+|----------|-------|
+| 🐍 Python | Iniciante |
+| 🌐 JavaScript | Iniciante |
+| 💠 C++ | Iniciante |
+
+</div>
 
 ---
 
-## 💬 Sobre mim
-- Estudante dedicado e em constante evolução  
-- Motivado a aprender novas tecnologias  
-- Focado em construir uma base sólida em programação  
-- Aberto a oportunidades e colaboração  
-- Objetivo atual: conseguir meu primeiro emprego como desenvolvedor  
+## 🌐 Onde me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-ribeiro-2677a333b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🔗 Contato
-**LinkedIn:**  
-https://www.linkedin.com/in/luiz-ribeiro-2677a333b
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ribeiroqz&show_icons=true&theme=tokyonight&hide_title=true" 
+    height="160"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiroqz&layout=compact&theme=tokyonight"
+    height="160"
+  />
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ribeiroqz&show_icons=true&theme=default&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiroqz&layout=compact&theme=default)
-
----
-
-Obrigado por visitar meu perfil.
+<p align="center">✨ Obrigado por visitar meu perfil ✨</p>
