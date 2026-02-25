@@ -1,50 +1,39 @@
-👋 Olá! Eu sou o Luiz Ribeiro!
+# Luiz Ribeiro
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-💻 Atualmente iniciando minha jornada no mundo da programação
-📚 Explorando e aprendendo Python, JavaScript e C++
-🎯 Meu maior objetivo no momento: conseguir meu primeiro emprego como desenvolvedor
+### Estudante de Análise e Desenvolvimento de Sistemas  
+Atualmente iniciando minha jornada no mundo da programação e construindo minha base em desenvolvimento de software.  
+Buscando minha primeira oportunidade na área de TI.
 
-Sou apaixonado por tecnologia e estou sempre buscando aprender mais e evoluir. Aqui no GitHub você vai acompanhar minha evolução como estudante e futuro desenvolvedor!
+---
 
-🚀 O que estou estudando atualmente
+## 📚 Estudando atualmente
+- Python  
+- JavaScript  
+- C++  
 
--🐍 Python
+---
 
--🌐 JavaScript
+## 💬 Sobre mim
+- Estudante dedicado e em constante evolução  
+- Motivado a aprender novas tecnologias  
+- Focado em construir uma base sólida em programação  
+- Aberto a oportunidades e colaboração  
+- Objetivo atual: conseguir meu primeiro emprego como desenvolvedor  
 
--💠 C++
-Estou focado em aprender lógica, estruturas de dados, boas práticas e construção de pequenos projetos para reforçar meus estudos.
+---
 
+## 🔗 Contato
+**LinkedIn:**  
+https://www.linkedin.com/in/luiz-ribeiro-2677a333b
 
-📘 Sobre mim
+---
 
--👨‍🎓 Estudante de ADS
+## 📈 GitHub Stats
 
--🔍 Motivado a aprender novas tecnologias
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ribeiroqz&show_icons=true&theme=default&hide_title=true)
 
--🌱 Evoluindo passo a passo para me tornar um bom desenvolvedor
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiroqz&layout=compact&theme=default)
 
--🤝 Aberto a oportunidades para aprender, colaborar e crescer
+---
 
--💼 Procurando minha primeira oportunidade na área de TI
-
-🔗 Onde me encontrar
-
-📎 LinkedIn:
-www.linkedin.com/in/luiz-ribeiro-2677a333b
-
-
-📈 Minha jornada no GitHub
-![Luiz Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Ribeiroqz&show_icons=true&theme=radical)
-
-
-🌟 Objetivos
-
--Conseguir meu primeiro emprego na área de desenvolvimento
-
--Criar projetos para reforçar meus estudos
-
--Desenvolver uma base sólida em Python, JavaScript e C++
-
--Me aprofundar em tecnologias de back-end e front-end futuramente
+Obrigado por visitar meu perfil.
